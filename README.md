@@ -1,4 +1,4 @@
-# subconverter
+# subconverter-yycx
 
 Utility to convert between various proxy subscription formats.
 
